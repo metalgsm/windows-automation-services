@@ -1,1 +1,1 @@
-nircmd setdefaultsounddevice boombox
+nircmd setdefaultsounddevice edifier
